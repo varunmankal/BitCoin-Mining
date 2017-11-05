@@ -1,7 +1,3 @@
-###################
-#### PROJECT 1 ####
-###################
-
 The goal of this project is generate bitcoins with the required number of leading zeros using actor model. It has also been extended to enlist other machines to take part in bitcoin generation.
 
 **Steps to execute**
@@ -47,14 +43,7 @@ raheenmz;CFm1q8U2 00001FD96C30BEFE748D69D085D2236ACC4A7EE66D5F9B8E33D6C352D52E82
 raheenmz;p7HCIqH1 00000E0481C562B12B96650A30487858B15BDD1D3275CB3199ABC94FC3DCCF6F
 raheenmz;IF/vkC4A 00002E3E2B0EFB541C840CF1269756EE05AF0CF806C74AD13A7B146397E3D1DD
 
-
-3)cpu time/run time : 1.2 (on strom server)
-
-4) The program was able to mine coins with maximum 6 0's.
-   Example of the coin and it's hash is 
-    raheenmz;yvhjixjbK9 000000EEC407128A556309D629C2654B02B48A9F8877F8D9D3F7AA48BEDC3CDB
-
-5)largest number of machines : 4 
+3)largest number of machines : 4 
 
 
 **Function description** 
